@@ -38,27 +38,27 @@ $(document).mousemove(function (e) {
         var imagesArray = new Array();
 
         imagesArray = [
-            "images/1.png", "images/2.png", "images/3.png", "images/4.png", "images/5.png","images/6.png","images/7.png",
-            "images/8.png","images/9.png","images/10.png","images/11.png","images/12.png","images/13.png","images/14.png",
-            "images/15.png","images/16.png","images/17.png","images/18.png","images/19.png","images/20.png","images/21.png",
-            "images/22.png","images/23.png","images/24.png","images/25.png","images/26.png","images/27.png","images/28.png",
-            "images/29.png","images/30.png","images/31.png","images/32.png","images/33.png","images/34.png","images/35.png",
-            "images/36.png","images/37.png","images/38.png","images/39.png","images/40.png","images/41.png","images/42.png",
-            "images/43.png","images/44.png","images/45.png","images/46.png","images/47.png","images/48.png","images/49.png",
-            "images/50.png","images/51.png","images/52.png","images/53.png","images/54.png","images/55.png","images/56.png",
-            "images/57.png","images/58.png","images/59.png","images/60.png","images/61.png","images/62.png","images/64.png",
-            "images/64.png","images/65.png","images/66.png","images/67.png","images/68.png","images/69.png","images/70.png",
-            "images/71.png","images/72.png","images/73.png","images/74.png","images/75.png","images/76.png","images/77.png",
-            "images/78.png","images/79.png","images/80.png","images/81.png","images/82.png","images/83.png","images/84.png",
-            "images/85.png","images/86.png","images/87.png","images/88.png","images/89.png","images/90.png","images/91.png",
-            "images/92.png","images/93.png","images/94.png","images/95.png","images/96.png","images/97.png","images/98.png",
-            "images/99.png","images/100.png","images/101.png","images/102.png","images/103.png","images/104.png","images/105.png",
-            "images/106.png","images/107.png","images/108.png","images/109.png","images/110.png","images/111.png","images/112.png",
-            "images/113.png","images/114.png","images/115.png","images/116.png","images/117.png","images/118.png","images/119.png",
-            "images/120.png","images/121.png","images/122.png","images/123.png","images/124.png","images/125.png","images/126.png",
-            "images/127.png","images/128.png","images/129.png","images/130.png","images/131.png","images/132.png","images/133.png",
-            "images/134.png","images/135.png","images/136.png","images/137.png","images/138.png","images/139.png","images/140.png",
-            "images/141.png","images/142.png","images/143.png","images/144.png"
+            “/1.png”, “/2.png”, “/3.png”, “/4.png”, “/5.png”,”/6.png”,”/7.png”,
+            “/8.png”,”/9.png”,”/10.png”,”/11.png”,”/12.png”,”/13.png”,”/14.png”,
+            “/15.png”,”/16.png”,”/17.png”,”/18.png”,”/19.png”,”/20.png”,”/21.png”,
+            “/22.png”,”/23.png”,”/24.png”,”/25.png”,”/26.png”,”/27.png”,”/28.png”,
+            “/29.png”,”/30.png”,”/31.png”,”/32.png”,”/33.png”,”/34.png”,”/35.png”,
+            “/36.png”,”/37.png”,”/38.png”,”/39.png”,”/40.png”,”/41.png”,”/42.png”,
+            “/43.png”,”/44.png”,”/45.png”,”/46.png”,”/47.png”,”/48.png”,”/49.png”,
+            “/50.png”,”/51.png”,”/52.png”,”/53.png”,”/54.png”,”/55.png”,”/56.png”,
+            “/57.png”,”/58.png”,”/59.png”,”/60.png”,”/61.png”,”/62.png”,”/64.png”,
+            “/64.png”,”/65.png”,”/66.png”,”/67.png”,”/68.png”,”/69.png”,”/70.png”,
+            “/71.png”,”/72.png”,”/73.png”,”/74.png”,”/75.png”,”/76.png”,”/77.png”,
+            “/78.png”,”/79.png”,”/80.png”,”/81.png”,”/82.png”,”/83.png”,”/84.png”,
+            “/85.png”,”/86.png”,”/87.png”,”/88.png”,”/89.png”,”/90.png”,”/91.png”,
+            “/92.png”,”/93.png”,”/94.png”,”/95.png”,”/96.png”,”/97.png”,”/98.png”,
+            “/99.png”,”/100.png”,”/101.png”,”/102.png”,”/103.png”,”/104.png”,”/105.png”,
+            “/106.png”,”/107.png”,”/108.png”,”/109.png”,”/110.png”,”/111.png”,”/112.png”,
+            “/113.png”,”/114.png”,”/115.png”,”/116.png”,”/117.png”,”/118.png”,”/119.png”,
+            “/120.png”,”/121.png”,”/122.png”,”/123.png”,”/124.png”,”/125.png”,”/126.png”,
+            “/127.png”,”/128.png”,”/129.png”,”/130.png”,”/131.png”,”/132.png”,”/133.png”,
+            “/134.png”,”/135.png”,”/136.png”,”/137.png”,”/138.png”,”/139.png”,”/140.png”,
+            “/141.png”,”/142.png”,”/143.png”,”/144.png”
         ]
 
         var num = Math.floor(Math.random() * imagesArray.length);
